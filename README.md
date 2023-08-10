@@ -22,4 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karrtik159&show_icons=true&locale=en&layout=compact" alt="karrtik159" /></p>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/karrtik159?theme=nord&font=&extension=null)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karrtik159&" alt="karrtik159" /></p>
