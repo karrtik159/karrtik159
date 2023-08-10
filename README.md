@@ -1,3 +1,5 @@
+![logo](https://github.com/karrtik159/karrtik159/assets/65113086/880e69c2-77e7-4a29-bea2-78750ce88dfa)
+
 <h1 align="center">Hi 👋, I'm Karrtik Baheti</h1>
 <h3 align="center">I am a keen and an enthusiastic learner with my curiosity to explore every possible wide. I have in-depth knowledge on machine learning and related development tools. I am a firm believer of inclusive growth which will help foster increment for me as well as my acquaintances</h3>
 
