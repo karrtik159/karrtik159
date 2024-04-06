@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a [Freelancer on freelancer.com](https://www.freelancer.com/u/Karrtik159)
 
-- 💬 Ask me about **Machine learning and Deep Learning in detailMachine learning and Deep Learning models in details**
+- 💬 Ask me about **Machine learning and Deep Learning in detail**
 
 - 📫 How to reach me **karrtikbaheti159@gmail.com**
 
